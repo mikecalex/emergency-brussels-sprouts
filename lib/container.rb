@@ -1,4 +1,4 @@
-require 'pry'
+
 class Container
   attr_reader :weight, :maximum_holding_weight
   attr_accessor :ingredients
