@@ -17,8 +17,8 @@ class Container
   end
 
   def which_ingredient
-	 @ingredients[0].name
-	end
+    @ingredients[0].name
+  end
 
   def how_many_ingredients
     @ingredients.length
